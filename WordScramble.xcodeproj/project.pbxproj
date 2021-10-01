@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A2E34EC270769820015B252 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6A2E34EB270769820015B252 /* start.txt */; };
 		6ADF0DE927066D4E0005B6D6 /* WordScrambleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADF0DE827066D4E0005B6D6 /* WordScrambleApp.swift */; };
 		6ADF0DEB27066D4E0005B6D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ADF0DEA27066D4E0005B6D6 /* ContentView.swift */; };
 		6ADF0DED27066D4F0005B6D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ADF0DEC27066D4F0005B6D6 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A2E34EB270769820015B252 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = ../../start.txt; sourceTree = "<group>"; };
 		6ADF0DE527066D4E0005B6D6 /* WordScramble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordScramble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6ADF0DE827066D4E0005B6D6 /* WordScrambleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScrambleApp.swift; sourceTree = "<group>"; };
 		6ADF0DEA27066D4E0005B6D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				6ADF0DE827066D4E0005B6D6 /* WordScrambleApp.swift */,
 				6ADF0DEA27066D4E0005B6D6 /* ContentView.swift */,
+				6A2E34EB270769820015B252 /* start.txt */,
 				6ADF0DEC27066D4F0005B6D6 /* Assets.xcassets */,
 				6ADF0DF127066D4F0005B6D6 /* Info.plist */,
 				6ADF0DEE27066D4F0005B6D6 /* Preview Content */,
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6ADF0DF027066D4F0005B6D6 /* Preview Assets.xcassets in Resources */,
+				6A2E34EC270769820015B252 /* start.txt in Resources */,
 				6ADF0DED27066D4F0005B6D6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
